@@ -1,0 +1,354 @@
+code,description
+E01,00-E0159 
+A467,4 
+Q41,00-Q4304 <NJ 
+P901,0-P9040 
+P901,"0-P9040, P9050-P9099 "
+A011,0 
+S821,0 
+J057,"4, J0575 "
+L081,0-L0830 
+P32,suspension A9564 
+J07,40 
+A467,4 
+V251,0 
+Q04,77-Q0509 
+A477,4 
+K07,44-K07 46 
+H004,7-H0050 
+E07,40 
+C17,49 
+B41,00-B4162 
+Q51,05 
+Q511,0 
+F18,A9586 
+A551,0-A5514 
+E21,03 
+E097,4 
+S981,0 
+G031,0-G0315 
+A431,"0-A4360, A5102-A5200 "
+A431,"0-A4316, A4354 "
+A431,O 
+L411,0 
+V241,0-V2499 
+V21,00-V2199 
+J201,0 
+G997,4 
+G97,"41, G9758, G9760, G9761, G9768, G9805, "
+J767,4 
+J227,4 
+E057,4 
+J271,O 
+E07,45 
+J241,0 
+E061,0 
+P901,0-P9615 
+E07,40 
+L551,0-L5595 
+L561,"0-L5699, L571 0-L5966, L5991 ® "
+A701,O 
+C977,"4, C9766 "
+E071,O 
+Q41,00-Q4304 IN) 
+L84,70-L8485 
+P32,A9563 
+A431,0-A4316 
+A431,0-A4360 
+J022,04 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+P98,Dialysis services 
+A491,"B Venous pressure clamp, for hemodialysis, "
+A431,0-A4360) 
+A91,S0-A9999) 
+A91,SO-A9999) 
+A91,S0-A9999) 
+F18,Coding Clinic: 2022. 04 
+P88,Endoscopy - upper 
+P60,Minor procedures - other 
+P68,Minor procedures -
+P88,Endoscopy - upper 
+E01,00-E8002) 
+E01,OO-E8002) 
+E01,OO-E8002) 
+D18,Hospital beds 
+D18,Hospital beds 
+E01,00-E8002) 
+S00,"IPPB machine, all types, with built-in "
+E01,OO-E8002) 
+E01,00-E8002) 
+E01,OO-E8002) 
+D10,Wheelchairs 
+E01,OO-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,00-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,00-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,OO-E8002) 
+E01,OO-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,OO-E8002) 
+E01,OO-E8002) 
+E01,00-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,00-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+E01,OO-E8002) 
+E01,OO-E8002) 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+B000,E8002) 
+D10,Wheelchairs 
+M50,Specialist - other 
+M50,Specialist - other 
+M50,Specialist - other 
+M50,Specialist - other 
+M50,Specialist - other 
+M50,Specialist - other 
+G601,"0 Radiation treatment delivery, 2 separate "
+B473,Angiotensin converting enzyme (ACE) 
+B477,Most recent blood pressure has a systolic 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+B907,Patient documented not to have experienced 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+M58,Specialist - psychiatry 
+P78,Oncology - other 
+G927,4 
+G941,"0 Patient admitted within 180 days, status post "
+G94,71 - G9484 
+G951,0 Adult patients 18 years of age or older 
+G96,7 4 
+H201,"0 Comprehensive medication services, "
+S93,"Injection, lanadelumab-flyo, 1 mg (code "
+S94,"Injection, Busulfan, 1 mg "
+S96,"Injection, C1 esterase inhibitor "
+S97,"Injection, C-1 esterase inhibitor (human), "
+S98,"Injection, C-1 esterase inhibitor (human), "
+S99,"Injection, c-1 esterase inhibitor (human), "
+G00,"Injection, edetate calcium disodium, "
+K20,ASC KlmJ 
+S02,"Injection, pasireotide long acting, "
+B17,E1 
+K20,ASC G 
+K20,ASC G 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+D10,Wheelchairs 
+B39,"Power wheelchair, group 2 very heavy "
+B42,"Power wheelchair, group 2 standard, "
+D10,Wheelchairs 
+D10,Wheelchairs 
+L01,l 2-L4631) 
+S400,"B L5230 Above knee, for proximal femoral focal "
+S000,L9900) 
+S688,LS780 
+L571,O-L5780) 
+S781,LS859 
+L591,0 - L5976 
+L61,00-L6130) 
+S000,L9900) 
+O00,L9900) 
+L841,5 
+S000,L9900) 
+P78,Oncology - other 
+O28,P9615) 
+P961,S) 
+S16,Temporary Codes (Q0035-Q9992) 
+S28,"l!J 02009 Injection, fosphenytoin, 50 mg phenytoin "
+Q421,"O Axolotl graft or axolotl dualgraft, "
+S006,QS114 
+S115,Q9004 
+S12,S0812 
+S008,VS364) 
+S008,V5364) 
+S363,VS364 
+N40,500ml 
+B17,"ISOPROTERENOL HCL, "
+B17,dose 
+S855,enrollment without impact on 
+R411,.4b. Typically the state 
+Q509,1 
+G001,O with 
+V20,or PCV15). 
+V15,"is used, it should be followed by a dose "
+V20,"or PCV15). When PCV15 is used, it should be "
+V15,"is used, "
+V15,and PPSV23 is 2:1 year. A minimum interval 
+V23,in these vulnerable groups. 
+V20,or PCV15) e::1 year after their last 
+V23,dose. When PCV15 is used in those with history 
+V23,"receipt, it need not be followed by another "
+V13,"and PPSV23, but no "
+V23,"was received at age e::65, either one dose "
+V20,is recommended at least 5 years after 
+V23,series as previously 
+V20,for adults age e::65 
+V13,"and PPSV23, and PPSV was received at age "
+V20,"is made, a dose "
+V20,is recommended at least 5 years after the last 
+V13,only are recommended 
+V20,at least 1 year after the 
+V13,"dose, or PPSV23 as previously recommended to "
+V13,and PPSV23 
+V20,at least 5 years after the last 
+V23,as previously 
+P450,(CYP) enzymes in liver cells. CYP2C9 is the principal 
+P450,enzyme that modulates the anticoagulant 
+N56,MSN: N/A 
+N56,ly!SN: N/A 
+N386,MSN: 16.10 
+U50,_Consolidated_ 
+G004,7) single 
+G004,7) multiple 
+N386,"Claim Adjustment Reason Code (CARC) 50, 96, and/or 119. "
+X12,837 institutional claim format or on Form
+A130,MSN: N/A 
+A130,MSN: N/A 
+C61,for FDG PET 
+N435,MSN: 23.17 
+A130,MSN: N/A 
+A130,MSN: N/A 
+A130,MSN: N/A 
+M67,712 
+N390,MSN: 1.6 
+X12,837 
+X12,837 professional claim format. 
+N53,MSN: N/A 
+X12,claims transaction
+X12,837 professional 
+X12,837 professional claim format 
+X12,837 professional claim format. 
+G04,71 - Collection of venous blood by venipuncture or 
+X12,837 institutional claim format 
+Z23,Description 
+Z23,is to be used for all 
+G04,75 will be 
+Z11,.3 - Encounter for screening for infections with a 
+Z11,.3 - Encounter for screening for infections with a 
+M77,Missing/incomplete/invalid place of service
+M86,Service denied because payment already made for 
+N95,This
+N428,Not
+N362,The number of Days or Units of service exceeds our 
+G044,"7), Face-to-face "
+N428,Not covered when performed in this 
+N362,The number of days or units of service 
+N386,This decision was based on a National 
+M77,Missing/incomplete/invalid place of 
+N95,"""This provider type/provider specialty "
+O465,for 
+N428,"""Service/procedure not covered when performed "
+N386,This decision was based on a National 
+N386,This decision 
+A11,Acute embolism and thrombosis of right axillary vein 
+A12,Acute embolism and thrombosis of left axillary vein 
+A13,"Acute embolism and thrombosis of axillary vein, bilateral "
+A21,Chronic embolism and thrombosis of right axillary vein 
+A22,Chronic embolism and thrombosis of left axillary vein 
+A23,"Chronic embolism and thrombosis of axillary vein, bilateral "
+B11,Acute embolism and thrombosis of right subclavian vein 
+B12,Acute embolism and thrombosis of left subclavian vein 
+B22,Chronic embolism and thrombosis of left subclavian vein 
+B23,"Chronic embolism and thrombosis of subclavian vein, "
+C11,Acute embolism and thrombosis of right internal jugular 
+C12,Acute embolism and thrombosis of left internal jugular 
+C13,"Acute embolism and thrombosis of internal jugular vein, "
+C21,Chronic embolism and thrombosis of right internal jugular 
+C22,Chronic embolism and thrombosis of left internal jugular 
+C23,"Chronic embolism and thrombosis of internal jugular vein, "
+M86,Service denied because 
+M86,Service denied 
+N428,Service/ 
+B20,Human Immunodeficiency Virus (HIV) disease and 
+B20,Human
+B20,Human Immunodeficiency Virus (HIV) disease 
+B20,Human immunodeficiency Virus (HIV) disease and E88.1 
+O43,"Sipuleucel-T, minimum of 50 million autologous "
+C61,(malignant 
+C61,Malignant neoplasm of prostate (for on-label or off-label 
+D075,Carcinoma in situ of prostate (for off-label indications only) 
+N362,The number of Days or Units of Service exceeds 
+H32,H44.2A1 
+H32,coverage) 
+H32,coverage) 
