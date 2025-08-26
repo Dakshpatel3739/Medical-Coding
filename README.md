@@ -23,7 +23,7 @@ This project aims to develop a **Medical Code Prediction Model** using the **Ret
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/medical-code-prediction.git
+git clone https://github.com/Dakshpatel3739/Medical-Coding.git
 cd medical-code-prediction
 ```
 
