@@ -8,13 +8,13 @@ This project aims to develop a **Medical Code Prediction Model** using the **Ret
 
 ## Folder Structure
 
-- : Contains the input raw PDF files and any extracted text.
-- : All the source code, including PDF extraction, embeddings, retrieval, API integration, and Gradio interface.
-- : Placeholder for the trained model.
-- : Output files like extracted ICD codes and logs.
-- : Required libraries for the project.
-- : Configuration file for API keys and other settings.
-- : For containerization of the application.
+-  Contains the input raw PDF files and any extracted text.
+-  All the source code, including PDF extraction, embeddings, retrieval, API integration, and Gradio interface.
+-  Placeholder for the trained model.
+-  Output files like extracted ICD codes and logs.
+-  Required libraries for the project.
+-  Configuration file for API keys and other settings.
+-  For containerization of the application.
 
 ---
 
